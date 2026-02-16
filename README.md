@@ -30,7 +30,7 @@ npm run start:dev
 - MongoDB + Mongoose
 - JWT + bcrypt
 
-## ⚙️ Environment Variables (WILL KEEP THEM FOR EASE_USE)
+## ⚙️ Environment Variables (WILL KEEP THEM FOR EASINESS)
 
 **Frontend (.env):**
 ```env
